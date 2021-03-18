@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureIotCentral.DeviceSimulation", "AzureIotCentral.DeviceSimulation\AzureIotCentral.DeviceSimulation.csproj", "{48E9ED0B-A87F-481F-8D32-B2E9310EF38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E9ED0B-A87F-481F-8D32-B2E9310EF38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E9ED0B-A87F-481F-8D32-B2E9310EF38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E9ED0B-A87F-481F-8D32-B2E9310EF38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E9ED0B-A87F-481F-8D32-B2E9310EF38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83A7CA8-19B7-486B-BB7E-C3359DEDC022}
+	EndGlobalSection
+EndGlobal
